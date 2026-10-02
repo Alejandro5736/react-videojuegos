@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "RPG de acción en mundo abierto con una narrativa rica e interactiva.",
+    "genre": "RPG",
+    "price": 34990,
+    "offerPrice": 14990,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Elden Ring",
+    "description": "Aventura de acción RPG en un vasto mundo fantástico lleno de desafíos.",
+    "genre": "Acción / RPG",
+    "price": 54990,
+    "offerPrice": 39990,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cyberpunk 2077",
+    "description": "RPG de acción en la megalópolis de Night City obsesionada con el poder.",
+    "genre": "Ciencia Ficción",
+    "price": 44990,
+    "offerPrice": 22990,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Red Dead Redemption 2",
+    "description": "Épica historia sobre la vida en el desolado corazón de América.",
+    "genre": "Aventura / Mundo Abierto",
+    "price": 49990,
+    "offerPrice": 24990,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg"
+  }
+]
